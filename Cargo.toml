@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 byteorder = "1.4.3"
-clap = { version = "3", features = ["derive"] }
+clap = { version = "4", features = ["derive"] }
 env_logger = "0.8.4"
 fst = "0.4.7"
 log = "0.4.14"
